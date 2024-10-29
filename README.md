@@ -1,1 +1,1 @@
-# goit-neo-react-hw-module3
+# Homework 3
